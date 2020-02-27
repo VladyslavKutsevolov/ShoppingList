@@ -1,7 +1,7 @@
 {
-  "name": "ShoppingList",
+  "name": "Shopping_list",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mern stack app",
   "main": "server.js",
   "scripts": {
     "start": "node server",
